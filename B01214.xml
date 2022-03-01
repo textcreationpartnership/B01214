@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Action de graces (en forme de meditation) faicte à Dieu sur la vie redonnée à ses enfans par le benefice de la paix. A messieurs Marius &amp; Aurelius les tres-honoréz pasteurs de l'Eglise Françoise recueillie à Londres. / Par le Sieur du Pin docteur és droicts &amp; aduocat au Parlement de Paris.</title>
+            <author>Du Pin, Sieur.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01214</idno>
+            <idno type="STC">STC 7358</idno>
+            <idno type="STC">ESTC S91793</idno>
+            <idno type="EEBO-CITATION">52633181</idno>
+            <idno type="OCLC">ocm 52633181</idno>
+            <idno type="VID">173990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2114:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Action de graces (en forme de meditation) faicte à Dieu sur la vie redonnée à ses enfans par le benefice de la paix. A messieurs Marius &amp; Aurelius les tres-honoréz pasteurs de l'Eglise Françoise recueillie à Londres. / Par le Sieur du Pin docteur és droicts &amp; aduocat au Parlement de Paris.</title>
+                  <author>Du Pin, Sieur.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprimé par Richard Field demeurant à la rue de VVood-street.,</publisher>
+                  <pubPlace>A Londres, :</pubPlace>
+                  <date>1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initials.</note>
+                  <note>Title page has printers' device (McK. 210β).</note>
+                  <note>Signatures: A⁸.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="frm">frm</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditations --  Early works to 1800.</term>
+               <term>Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173990:1"/>
+            <pb facs="tcp:173990:1"/>
+            <p>ACTION DE GRACES (EN FORME DE MEDITATION) FAI<g ref="char:EOLhyphen"/>cte à Dieu ſur la vie redonnée àſes enfans par le benefice de la Paix.</p>
+            <p>A Meſsieurs <hi>Marius</hi>&amp; <hi>Aurelius</hi> les tres<g ref="char:EOLhyphen"/>honoréz Paſteurs de l'Egliſe Françoiſe recueillie à Londres.</p>
+            <p>Par le Sieur du Pin Docteur és Droicts &amp; Ad<g ref="char:EOLhyphen"/>uocat au Parlement de Paris.</p>
+            <figure>
+               <q>ANCHORA SPEI</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>A LONDRES,</hi> Imprimé par Richard Field demeu<g ref="char:EOLhyphen"/>rant à la rue de VVood-ſtreet. 1622.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173990:2"/>
+            <pb n="3" facs="tcp:173990:2"/>
+            <head>A MESSIEVRS, MESSIEVRS LES PA<g ref="char:EOLhyphen"/>STEVRS DE L'EGLISE Françoiſe recueillie à Londres.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>ESSIEVRS,</salute>
+            </opener>
+            <p>Ce qui vient de vous, retourne à vous. L'excellence de vos pre<g ref="char:EOLhyphen"/>dications (comme auſſi celles de quelques Paſteurs douéz de graces non vulgaires retiréz ici) auquelles Dieu m'a faict la grace de me rendre aſsidu pendant mon ſeiour en ceſt heureux Royaume, &amp; les textes ſacréz par vous interpretéz pied à pied auec les ornemens requis, &amp; application continuelle &amp; pleineme<g ref="char:cmbAbbrStroke">̄</g>t faicte, ont porté mon Ame &amp; l'inclination d'icelle où deſia elle eſtois pencheante, c'eſt aſſauoir à la meditation à la<g ref="char:EOLhyphen"/>quelle mon eſprit s'eſt attaché, pour penſer plus aux choſes diuines qu'aux humaines. Et eſt arriué qu'au lieu de deffendre la cauſe des ho<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mes, comme i'ay faict depuis vingt ans &amp; plus au premier Senat de France, i'ay pris vn plai<g ref="char:EOLhyphen"/>ſir indicible à vous entendre plaider la cauſe de Dieu, au lieu de vacquer à bexercicè &amp;
+<pb n="4" facs="tcp:173990:3"/>fonc<g ref="char:cmbAbbrStroke">̄</g>tio<g ref="char:cmbAbbrStroke">̄</g> de donner aduis &amp; conſeilà ceux qui le demandent, pour remedier aux fluxions &amp; hu<g ref="char:EOLhyphen"/>meurs d'vn proces ſouuentesfois importun, ma delectation a eſté d'appre<g ref="char:cmbAbbrStroke">̄</g>dre de vos bouches les preceptes de ſanté ſpirituelle, au lieu de co<g ref="char:cmbAbbrStroke">̄</g>mu<g ref="char:EOLhyphen"/>uiquer auec les hommes pour affaires humains, ie me ſuis entretenu au doux contentement que reçoiuent les eſprits par lans auec Dieu, &amp; ſe repreſentans iournellement la grandeur de ſes benefices ineſtimables par la naiſſance &amp; re<g ref="char:EOLhyphen"/>naiſſance de l'homme. D'ailleurs outre plu<g ref="char:EOLhyphen"/>ſieurs remerciemens faicts à Dieu en vos di<g ref="char:EOLhyphen"/>uerſes predications incontinant apres la nou<g ref="char:EOLhyphen"/>uelle de paix, vous ayant pris &amp; ordonné ce iour extraordinaire &amp; ſolemnel pour ſacrifice d'actions de graces au Toutpuiſſant de ſon don miraculeux, ie me ſuis trouué en l'Egliſe, ou ſuiuant de coeur, volonté, affection, attention &amp; intention ces deux cloquens Ambaſſadeurs du Filz de Dieu, auquels la chaire a eſté pre<g ref="char:EOLhyphen"/>ſentée pour le glorifier, en le remerciant par leurs predications diuines &amp; prieres arden<g ref="char:EOLhyphen"/>tes, auſsi toſt &amp; auſortir du Temple, eſt née ceſt Action de graces qui de droict retourne à vous, conſiderant que pluſieurs qui euſſent peu mieux faire que moy, en donnant au iour les teſmoignages de noſtre recognoiſſance deue enuers le ciel, &amp; particulierement vous autres Meſsieurs n'auez le loiſir diſtraicts &amp; empe<g ref="char:EOLhyphen"/>ſchéz
+<pb n="5" facs="tcp:173990:3"/>par vos predications frequentes &amp; au<g ref="char:EOLhyphen"/>tres ſaincts exercices qui en dependent. Ainſi eſt aduenu que comme on ſe noircit au Soleil ſans y penſer, auſsi entendant tant de belles predications &amp; ſainctes meditations, ceſte miennepetite s'eſt formée en vn inſtant, &amp; l'effect d'icelle remonte à ſa cauſe &amp; à ſon ori<g ref="char:EOLhyphen"/>gine. Ie vous ſupplie treshumblement le pren<g ref="char:EOLhyphen"/>dre en bon part, &amp; comme ie ſuis obligé de che<g ref="char:EOLhyphen"/>rir toute ma vie l'honneur &amp; la faueur de vo<g ref="char:EOLhyphen"/>ſtre cognoiſſance, &amp; benir les heures eſquelles i'ay veu &amp; entendu perſonnages ſi excellens en doctrine &amp; pieté, en vous entendant &amp; voy<g ref="char:EOLhyphen"/>ant, auſsi ie vous ſupplie me croire ſans fin, de coeur, d'ame, &amp; d'affection entierement vo<g ref="char:EOLhyphen"/>ſtre. Et ſur ceſte verité ie prieray Dieu noſtre Pere, auquel vous ſeruéz en ſon Egliſe.</p>
+            <p>Meſsieurs, Benir de plus en plus l'allai<g ref="char:EOLhyphen"/>greſſe par vous apporteé en l'exercice heureux &amp; glorieux de voſtre ſainct Miniſtere, vous fortifier contre toutes difficultéz qui l'accom<g ref="char:EOLhyphen"/>pagnent, vous donner de ſurmonter les empe<g ref="char:EOLhyphen"/>ſchemens qui s'y rencontrent, &amp; touſiours auec la continuation à'vne longue &amp; heureuſe vie en bonne &amp; ferme ſanté vous faire ſentir a<g ref="char:EOLhyphen"/>bondamment les conſolations de ſon Eſprit par noſtre Seigneur Ieſus.</p>
+            <closer>
+               <dateline>De Londres ce <date>27 Nouembre 1622.</date>
+               </dateline>
+               <signed>Voſtre treſhumble &amp; treſ<g ref="char:EOLhyphen"/>affectionné ſeruiteur, <hi>I. de Grauelle.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173990:4"/>
+            <pb n="7" facs="tcp:173990:4"/>
+            <head>ACTION DE GRA<g ref="char:EOLhyphen"/>CES (EN FORME DE MEDITATION) FAICTE A Dieu ſur la vie redonnée à ſes enfans par le benefice de la Paix.</head>
+            <p>
+               <seg rend="decorInit">L</seg>'Homme eſt miſerable com<g ref="char:EOLhyphen"/>me la miſere meſme, conſide<g ref="char:EOLhyphen"/>ré en la condition de ſa vie ſubiecte à mille &amp; mille ren<g ref="char:EOLhyphen"/>contres toutes pleines d'amer<g ref="char:EOLhyphen"/>tume. Le plus grand contentement qu'il reçoit au monde n'eſt iamais entier, &amp; la douceur de ſes plus grands plaiſirs bien ſou<g ref="char:EOLhyphen"/>uent luy faict mal en le chatouillant. Ce qu'il demande pour le reſiouir, luy donne de la triſteſſe, &amp; d'ordinaire où il eſpere de trouuer le ſubiect de conſolation, c'eſt là qu'il faict rencontre de mille douleurs. En vn mot, l'homme a plus de mal à pluſieurs eſgards luy ſeul, que tous les autres ani<g ref="char:EOLhyphen"/>maux enſemble. Mais pourtant il ne s'enſuit pas que ſimplement il faille faire meſme iu<g ref="char:EOLhyphen"/>gement de l'eſtat de tous hommes, qui di<g ref="char:EOLhyphen"/>ſtinguez &amp; conſiderez en gros, peuuent e<g ref="char:EOLhyphen"/>ſtre
+<pb n="8" facs="tcp:173990:5"/>diſtinguez en deux ſortes. Les vns au milieu des biens n'ont que mal. Les autres au milieu des maux ſont enuironnez de biens. Les premiers ſont au monde &amp; pour le monde: Les autres conuerſent en terre, mais leur coeur &amp; leur affection eſt au ciel. Les vns ne gouſtent &amp; ne recognoiſſent point les graces decoulantes du ciel: les au<g ref="char:EOLhyphen"/>tres les ſentent &amp; les cheriſſent plus que leur vie. Les vns ne ſçauent aucunement que c'eſt que l'Eſprit de ſanctification: les autres ont l'honneur &amp; la grace de le porter &amp; loger heureuſement au dedans d'eux. Les vns ne prient point l'auteur de toute dona<g ref="char:EOLhyphen"/>tion, ſinon quand ilz n'en peuuent plus: les autres mettent tout leur ſolas &amp; leurs deli<g ref="char:EOLhyphen"/>ces en la priere faicte en tout temps. Les vns viuent en perpetuelle ingratitude: les autres s'occupent à recognoiſtre les benefi<g ref="char:EOLhyphen"/>ces receus en tout le cours de leur vie. En quoy ſe voit vne merueilleuſe difference, &amp; principalement en ce dernier poinct faiſant partie du ſeruice de Dieu. Me voici deſcen<g ref="char:EOLhyphen"/>du en vn profond abyſme, abyſme des gra<g ref="char:EOLhyphen"/>ces, des miſericordes, &amp; des benedictions de Dieu, lequel ſelon les richeſſes de ſes gratuitez qu'il fait repoſer ſur nos teſtes, ſans fin &amp; ſans ceſſe, nous donne matiere en re<g ref="char:EOLhyphen"/>ceuant tous biens de ſa main, luy en rendre
+<pb n="9" facs="tcp:173990:5"/>actions de graces immortelles. Le fidelle eſt raui en admiratio<g ref="char:cmbAbbrStroke">̄</g> quand il penſe à ces cho<g ref="char:EOLhyphen"/>ſes, &amp; ſon eſprit demeure comme fondu &amp; hors de luymeſme, ſoubleué &amp; porté iuſ<g ref="char:EOLhyphen"/>ques au ciel, &amp; à Dieu qui le reçoit &amp; vnit à ſoymeſme. Les penſées de l'eſprit de l'hom<g ref="char:EOLhyphen"/>me, alors n'ont rien moins que les qualitéz de l'homme. Les ſaincts eſlans de l'ame vi<g ref="char:EOLhyphen"/>uifiée &amp; ſanctifiée l'a portent à la grace du ciel, pource que la grace d'enhaut s'eſt fait gouſter &amp; ſauourer extraordinairement à elle. O Dieu, quelle douceur que la dou<g ref="char:EOLhyphen"/>ceur des conſolations de ton Eſprit, par<g ref="char:EOLhyphen"/>lant à nous &amp; nous faiſant parler à toy, nous conduiſant, nous beniſſant, conſeillant, con<g ref="char:EOLhyphen"/>ſolant &amp; deliurant à tout propos, &amp; par mi<g ref="char:EOLhyphen"/>racle &amp; par le miniſtere des Anges. Celuy qui eſt marqué de la marque des enfans de Dieu, ayant le ſeau de la foy planté dans ſon coeur par ſon Eſprit parmy les difficul<g ref="char:EOLhyphen"/>tez, amertumes, &amp; faſcheux accidens de la vie humaine, recognoiſt, touche, ſent la vertu, le pouuoir &amp; efficace de la verité, &amp; de la certitude des deliutances &amp; aſſiſtances qu'il octroye à ſes enfans. Et apres ce ſenti<g ref="char:EOLhyphen"/>ment ces enfans ainſi fauoriſés &amp; deliuréz annoncent ſes louanges, &amp; rendent actions de graces immortelles à l'Immortel. C'eſt à quoy l'Egliſe de Dieu eſt appellée main<g ref="char:EOLhyphen"/>tenant
+<pb n="10" facs="tcp:173990:6"/>pour la deliurance à elle donnée par la miſericorde du Toutpuiſſant, qui a faict merueilles en nos iours en rachettant Iſrael de tribulation. O Eternel qui prends plaiſir à l'exaltation de ton grand Nom, fay nous la grace, &amp; nous donne de le pouuoir exal<g ref="char:EOLhyphen"/>ter &amp; magnifier ſelo<g ref="char:cmbAbbrStroke">̄</g> ta bonne volonté. Co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>bien grande eſt ta miſericorde, ta bonté, ta pitié! combien grandes ſont les compaſ<g ref="char:EOLhyphen"/>ſions deſquelles tu as vſé enuers nous! Nous qui auions merité non ſeuleme<g ref="char:cmbAbbrStroke">̄</g>t d'eſtre cha<g ref="char:EOLhyphen"/>ſtiez, mais auſſi exterminez du milieu des hommes, qui nous ſommes monſtrez in<g ref="char:EOLhyphen"/>grats &amp; ennemis de noſtre propre ſalut, qui auons faict combattre nos voeus contre nos voeus meſmes, qui auons veu tout deſrei<g ref="char:EOLhyphen"/>glé, tout desbordé, point d'honneur, point de vertu, la foy ſans ſes qualitez, la perfidie auec les ſiennes, le vice auec ſa ſuite, vn monde de maux au monde, le diſcours de la raiſon noyé dedans ſon contraire, l'in<g ref="char:EOLhyphen"/>iuſtice du temps meſchamment deſtruiſant la iuſtice meſme, l'impudente temerité fai<g ref="char:EOLhyphen"/>ſant trophée de ſa folie, les inuentions dont la memoire doit eſtre exterminée reuiuan<g ref="char:EOLhyphen"/>tes, parmi le conſeil de l'amitié les inimities gliſſéez &amp; exercéez cruellement, l'hypocri<g ref="char:EOLhyphen"/>ſie redoublée pour le dommage de ceux qui viuent en innocence, le ſeruice de Dieu
+<pb n="11" facs="tcp:173990:6"/>foulé aux pieds, les remonſtrances des bons Eueſques &amp; excellens Paſteurs tiréez mal<g ref="char:EOLhyphen"/>heureuſement en ſubiect de riſée. Brief, tout reduict à l'extremité d'vn horreur &amp; mal eſpouuantable en ſoy &amp; en toutes ſes cir<g ref="char:EOLhyphen"/>conſtances.</p>
+            <p>Et neantmoins Seigneur, nonobſtant tant d'ingratitudes dont nous ſommes ta<g ref="char:EOLhyphen"/>chez, tant de deſordres, tant d'iniquitéz &amp; forfaicts, tu as fait luire ſur nous ta face en ioye &amp; en ſalut. Tu t'es leué pour relleuer pour ſauuer les tiens. Il t'a pleu regarder la deſolation de Sion: Tu as ente<g ref="char:cmbAbbrStroke">̄</g>du les pleurs, les cris &amp; les gemiſſemens des affligez. Grand Dieu, à ceſte nouuelle les humains demeurent ſaiſis d'eſtonnement, de ioye, &amp; d'vne lieſſe incroyable. Pere miſericordieux tu as couuert l'imperfection qui s'eſt trou<g ref="char:EOLhyphen"/>uée en nos iuſnes particuliers, &amp; en nos iuſ<g ref="char:EOLhyphen"/>nes generaux, de la perfection de ton Filz Ieſus: &amp; ainſi Seigneur &amp; bon Pere, tu as eu agreable noſtre humiliation.</p>
+            <p>Benit ſoit à iamais ton Nom glorieux. A toy Seigneur ſeul ſoit l'honneur de tes gra<g ref="char:EOLhyphen"/>ces. A toy Seigneur ſeul ſoit l'honneur de tes oeuures miraculeuſes. Fay Seigneur, s'il te plaiſt, que ceſte deliurance, ceſte paix ac<g ref="char:EOLhyphen"/>cordée à ton Egliſe, ſoit à iamais grauée de<g ref="char:EOLhyphen"/>dans nos ſouuenances, pour t'en tendre
+<pb n="12" facs="tcp:173990:7"/>actions de graces eternelles, pour te ſeruir ainſi que nous deuons, &amp; mieux qu'aupara<g ref="char:EOLhyphen"/>uant, pour paroiſtre &amp; veritablement eſtre conſacrez à ton obeiſſance, dediez à ton ſainct ſeruice, &amp; vouez auec zele, affection, &amp; ardeur grande, à l'execution de tous tes commandemens.</p>
+            <p>Et te rendant graces ô noſtre grand Dieu, nous te demandons vne autre grace, Qu'il te plaiſe ne permettre que iamais nous at<g ref="char:EOLhyphen"/>tribuions la cauſe de noſtre deliurance à autre bras qu'au tien, puis que toy ſeul es la cauſe de noſtre deliurance, deliurance ine<g ref="char:EOLhyphen"/>ſperée, &amp; par conſequent plus douce, plus admirable, plus cheriſſable mille fois. Pere ſainct, quand la viſion n'eſt plus, quand ta parole &amp; la predication d'icelle ceſſe, quand les Oracles manquent, tout va à rebours, la confuſion ſeule a le deſſus, &amp; ne voit on au<g ref="char:EOLhyphen"/>tte choſe qu'vne Iliade de maux. Quand ce<g ref="char:EOLhyphen"/>ſte nourriture, ceſte manne &amp; paſture cele<g ref="char:EOLhyphen"/>ſte eſt deſniée, les facultez de l'homme in<g ref="char:EOLhyphen"/>terieur tombent en atrophie &amp; finalement ſuccombent. Mais auſſi quand tout cela re<g ref="char:EOLhyphen"/>uient par le benefice de la Paix donnée de Dieu à ſon Egliſe, c'eſt vne lumiere, vne paſture nompareille, paſture viuifiante, &amp; qui plus eſt, la vie, laquelle tu nous as re<g ref="char:EOLhyphen"/>donnée aſin d'inuoquer ron Nom. Qu'à
+<pb n="13" facs="tcp:173990:7"/>iamais nous l'inuoquions auec la foy de tes enfans, te prions ſans ceſſe viuans &amp; mou<g ref="char:EOLhyphen"/>rans contens en vn tel exercice dont les ef<g ref="char:EOLhyphen"/>fects dreſſent nos actions à viſer conſtam<g ref="char:EOLhyphen"/>ment au but de ta gloire, qui eſt la fin de noſtre naiſſance. Te priant &amp; t'inuoquant comme nous deuons, nous recognoiſtrons &amp; confeſſerons noſtre miſere, nous implo<g ref="char:EOLhyphen"/>rerons ta miſericorde, nous obtiendrons tes benefices, &amp; te rendant actions de graces pour iceux, noſtre recognoiſſance ſaicte ſe<g ref="char:EOLhyphen"/>lon ton commandement ſera vn tiltre de nouuelles graces qu'a l'aduenir nous rece<g ref="char:EOLhyphen"/>urons. Que ton Eſprit donc forme nos de<g ref="char:EOLhyphen"/>mandes, &amp; qu'ainſi Pere celeſte tu nous donnes ce que luy meſmes t'aura deman<g ref="char:EOLhyphen"/>dé pour nous. Eternel donne nous s'il te plaiſt de faire plus d'eſtat de la predication de ta parole que nous n'auons fait ci deua<g ref="char:cmbAbbrStroke">̄</g>t, de rechercher tous moyens de l'entendre plus ſouuent, de profiter paricelle, d'aller de foy en foy, de pieté en pieté, de cognoiſ<g ref="char:EOLhyphen"/>ſance en cognoiſſance, de charité en chari<g ref="char:EOLhyphen"/>té. Octroye nous ce bien, que tout le reſte de nos iours noſtre plus ardent deſir ſoit d'auoir ta Loy propoſée deuant les yeux, &amp; d'apprendre ta ſageſſe, cognoiſſant ta vo<g ref="char:EOLhyphen"/>lonté, &amp; embraſſant ta verité. Quelque cho<g ref="char:EOLhyphen"/>ſe qui arriue, que iamais nous ne murmu<g ref="char:EOLhyphen"/>rions,
+<pb n="14" facs="tcp:173990:8"/>mais nous tenions ſans mot dire ado<g ref="char:EOLhyphen"/>rans tes iugemens. Que la foy, l'eſperance &amp; la charité ſoyent en nous nourries, fo<g ref="char:EOLhyphen"/>mentéez, illuſtréez de la vertu de patience, qui demeurant en nous immortelle, les por<g ref="char:EOLhyphen"/>tes toutes à l'immortaliré. Ainſi faiſant &amp; eſtant nouueaux hommes &amp; nouuelles creatures, ta grace accompagnera nos a<g ref="char:EOLhyphen"/>ctions, ta beneficence ſera proche de nous, &amp; ta ſaincte benediction demeurera à ia<g ref="char:EOLhyphen"/>mais dedans nos maiſons. Derechef, Sei<g ref="char:EOLhyphen"/>gneur nous beniſſons ton ſainct Nom, nos ames te louent, te glorifient, &amp; t'offrons nos ames meſmes en ſacrifice, deſira<g ref="char:cmbAbbrStroke">̄</g>t nous qui ſommes temples de ta gloire, n'eſtre &amp; ne faire iamais vn ſepulchre de ta bonté. O Dieu fay que ceſte deliurance demeure re<g ref="char:EOLhyphen"/>giſtrée és monumens publicqs de ton E<g ref="char:EOLhyphen"/>gliſe, tout ainſi que les heureux iours de noſtre ſacré Bapteſme. Tu as ouy la voix de nos ſupplications, ta iuſtice a frappé les vns, ta pitié a appellé les autres. Fay Sei<g ref="char:EOLhyphen"/>gneur que la priere qui t'a appellé à noſtre ſecours, ne ceſſe point apres qu'il eſt venu, que la priere qui a demandé ta grace conti<g ref="char:EOLhyphen"/>nue encores apres l'auoir obtenue. Que nos prieres qui ont fait monter nos coeurs à toy en l'aduerſité, ſoyent encores organes de ſa<g ref="char:EOLhyphen"/>lut en la proſperité, de ſorte que nos coeurs
+<pb n="15" facs="tcp:173990:8"/>&amp; nos corps dediez à toy, comme tu es Pe<g ref="char:EOLhyphen"/>re de l'vn &amp; de l'autre, noſtre conuerſation d'ici bas ait quelque choſe de celeſte, &amp; ſui<g ref="char:EOLhyphen"/>uio<g ref="char:cmbAbbrStroke">̄</g>s la ſaincteté, ſans laquelle nul ne te ver<g ref="char:EOLhyphen"/>ra iamais, afin qu'apres auoir paracheué heureuſement noſtre courſe, &amp; nous eſtans eſiouis en ton ſalut d'vne lieſſe &amp; ioye ſpiri<g ref="char:EOLhyphen"/>tuelle pour la paix de Ieruſalem, finalement Pere de grace &amp; de bonté appellez à la par<g ref="char:EOLhyphen"/>ticipation de tes graces au ciel, iouiſſions d'vne paix, ioye, &amp; lieſſe ſurmontans toute cognoiſſance &amp; toute autre ioye, en la co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pagnie des milliers d'Anges, pour te louer &amp; glorifier auec eux e<g ref="char:EOLhyphen"/>ternellement. Amen.</p>
+            <epigraph>
+               <q xml:lang="lat">Maior egit Deus.</q>
+               <q xml:lang="grc">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
